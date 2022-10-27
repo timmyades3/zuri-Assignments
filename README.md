@@ -1,4 +1,3 @@
-# zuri-Assignments
 # Zuri Assignment | week 3
 
 A combination of zuri week 3 assignment 
